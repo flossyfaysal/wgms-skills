@@ -1,4 +1,4 @@
----
+----
 name: wgms-case-study
 description: >
   Use this skill whenever you need to analyze a Duplicator White Glove Migration Service (WGMS)
@@ -22,7 +22,7 @@ description: >
 
 This skill produces two types of professional .docx outputs for the Duplicator Support Team:
 
-1. **Single Case Study** — Analyzes one ticket thread → outputs a structured training module
+1. **Single Case Study** — Analyzess one ticket thread → outputs a structured training module
 2. **Consolidated Training Report** — Synthesizes multiple case study .docx files → outputs a master playbook
 
 ---
